@@ -9,7 +9,12 @@ In our example we will create an application that stores information on Employee
 
 ## Read the article 📰
 
-A link to the supporting article can be found here.
+A link to the supporting articles can be found below. 👇
+
+> [Part #1: Using Interceptors With Entity Framework Core](https://medium.com/the-tech-collective/part-1-using-interceptors-with-entity-framework-core-c377f7ce7223)
+> 
+> _.NET 8 has introduced Interceptors. Here’s how to use them to audit your database transactions._
+
 
 ## User Instructions 🔖
 
