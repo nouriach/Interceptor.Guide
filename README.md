@@ -15,6 +15,13 @@ A link to the supporting articles can be found below. 👇
 > 
 > _.NET 8 has introduced Interceptors. Here’s how to use them to audit your database transactions._
 
+> [Part #2: Using Interceptors With Entity Framework Core](https://medium.com/the-tech-collective/part-2-using-interceptors-with-entity-framework-core-805aca49585a)
+> 
+> _Build out your endpoints and make requests using Swagger_
+
+> [Part #3: Using Interceptors With Entity Framework Core](https://medium.com/the-tech-collective/part-3-using-interceptors-with-entity-framework-core-0475f49c8947)
+>
+> _Create an audit table & build the interceptor_
 
 ## User Instructions 🔖
 
